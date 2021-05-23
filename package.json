@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "boardgame.io": "^0.44.3",
-    "lodash": "4.17.20",
+    "lodash": "^4.17.21",
     "react": "17.0.1",
     "react-art": "17.0.1",
     "react-dom": "17.0.1",
@@ -31,8 +31,8 @@
     "svgs": "4.1.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/runtime": "^7.8.4",
+    "@babel/core": "^7.14.3",
+    "@babel/runtime": "^7.14.0",
     "husky": "2.4.0",
     "lint-staged": "8.2.0",
     "metro-react-native-babel-preset": "^0.66.0",
