@@ -3,7 +3,7 @@ import { AppRegistry, Platform } from "react-native";
 import App from "./App";
 
 if (Platform.OS === "android") {
-  require("babel-polyfill");
+  require("react-native-get-random-values");
 }
 
 AppRegistry.registerComponent("matchimals", () => App);
