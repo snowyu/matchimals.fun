@@ -14,7 +14,6 @@
     "prettier": "prettier --write 'src/**/*.{js,json,md}'"
   },
   "dependencies": {
-    "babel-polyfill": "6.26.0",
     "boardgame.io": "^0.44.3",
     "lodash": "4.17.20",
     "react": "17.0.1",
